@@ -10,3 +10,5 @@ Note, currently Microsoft Graph Bicep is a preview feature.
 New-AzResourceGroupDeployment -ResourceGroupName bicep-azgraph -TemplateFile ./Bicep/main.bicep
 ```
 
+You can read the full article on [Dev.to](https://dev.to/omiossec/using-azure-bicep-to-deploy-ms-graph-resources-gh)
+
